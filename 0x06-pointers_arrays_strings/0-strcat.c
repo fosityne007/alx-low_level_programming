@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * _strcat - concatenates two string together
  * @src: Char[] to append to dest
